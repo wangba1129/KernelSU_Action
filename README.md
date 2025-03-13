@@ -4,6 +4,7 @@
 
 用于 Non-GKI Kernel 的 Action，具有一定的普遍性，需要了解内核及 Android 的相关知识得以运用。<br>
 基于xiaoleGun原始项目修改，感谢xiaoleGun的努力。
+**该项目已不再维护，请转移至我的新项目：[NonGKI_Kernel_Build](https://github.com/JackA1ltman/NonGKI_Kernel_Build)**
 
 ## 警告 :warning: :warning: :warning:
 
